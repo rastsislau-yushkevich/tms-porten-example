@@ -1,0 +1,26 @@
+{
+  "name": "tms-porten-example",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rastsislau-yushkevich/tms-porten-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rastsislau-yushkevich/tms-porten-example/issues"
+  },
+  "homepage": "https://github.com/rastsislau-yushkevich/tms-porten-example#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1",
+    "sass": "^1.49.11"
+  }
+}
